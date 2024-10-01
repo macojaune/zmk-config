@@ -19,4 +19,4 @@
 ---
 include:
   - board: puchi_ble_v1
-    shield: reviung41
+    shield: mlrreviung41
