@@ -1,0 +1,8 @@
+file_format: "1"
+id: mlrreviung41
+name: MLRREVIUNG41
+type: shield
+url: https://github.com/macojaune/zmk-config/
+requires: [pro_micro]
+features:
+  - keys
