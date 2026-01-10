@@ -20,5 +20,5 @@
 include:
   - board: puchi_ble_v1
     shield: mlrreviung41
-  - board: puchi_ble
+  - board: puchi_ble_v1
     shield: reviung41
