@@ -18,7 +18,7 @@
 #
 ---
 include:
-  - board: puchi_ble_v1
-    shield: mlrreviung41
-  - board: puchi_ble_v1
+  # - board: puchi_ble
+  #   shield: mlrreviung41
+  - board: puchi_ble
     shield: reviung41
